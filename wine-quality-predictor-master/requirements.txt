@@ -1,0 +1,2 @@
+-e . # This line will tell pip to install your package as editable mode, convenient for development.
+ipython # just if you need ipython to be installed in your virtual environment.
